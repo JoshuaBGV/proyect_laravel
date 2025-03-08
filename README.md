@@ -1,6 +1,5 @@
 # Proyecto Laravel
 
-Este es un proyecto de Laravel desarrollado por Ricardo Ustariz.
 
 ## Características
 

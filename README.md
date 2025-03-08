@@ -1,6 +1,5 @@
 # Proyecto Laravel
 
-
 ## Características
 
 - Sistema de pagos multipagos
